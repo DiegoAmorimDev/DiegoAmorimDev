@@ -1,10 +1,12 @@
-## Olá, eu sou o Diego Amorim, bem vindo ao meu github!
+## Olá, eu sou o Diego Amorim, bem-vindo ao meu GitHub!
 
 <div style="display: inline_block"><br>
+  <img align="center" alt="Diego-DotNet" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg">
+  <img align="center" alt="Diego-AspNet" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg">
+  <img align="center" alt="Diego-Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
   <img align="center" alt="Diego-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Diego-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Diego-Php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
 </div>
+
   
   ##
  
