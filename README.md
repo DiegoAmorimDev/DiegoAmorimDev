@@ -1,4 +1,4 @@
-## Olá, eu sou o Diego Amorim, bem-vindo ao meu GitHub!
+## Hi, I'm Diego Amorim, backend developer.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Diego-AspNet" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg">
